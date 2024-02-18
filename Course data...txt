@@ -1,0 +1,32 @@
+course_id, Course_name           , Instructor         , Credits
+101      , 'Introduction to CS'  , 'Prof. Anderson'   , 3
+102      , 'Biology 101'         , 'Prof. White'      , 4
+103      , 'Physics for Majors'  , 'Prof. Rodriguez'  , 4
+104      , 'Calculus I'          , 'Prof. Brown'      , 3
+105      , 'Organic Chemistry'   , 'Prof. Taylor'     , 4
+106      , 'Data Structures'     , 'Prof. Martinez'   , 3
+107      , 'Genetics'            , 'Prof. Johnson'    , 4
+108      , 'Quantum Physics'     , 'Prof. Adams'      , 4
+109      , 'Linear Algebra'      , 'Prof. Turner'     , 3
+110      , 'Analytical Chemistry', 'Prof. Hall'       , 4
+111      , 'Algorithms'          , 'Prof. Morris'     , 3
+112      , 'Ecology'             , 'Prof. Stewart'    , 4
+113      , 'Astrophysics'        , 'Prof. Nelson'     , 4
+114      , 'Discrete Mathematics', 'Prof. Hill'       , 3
+115      , 'Inorganic Chemistry' , 'Prof. Baker'      , 4
+116      , 'Artificial Intelligence', 'Prof. Clark'   , 3
+117      , 'Cell Biology'        , 'Prof. Scott'      , 4
+118      , 'Thermodynamics'      , 'Prof. Cooper'     , 4
+119      , 'Probability Theory'  , 'Prof. Foster'     , 3
+120      , 'Human Anatomy'       , 'Prof. Powell'     , 4
+121      , 'Software Engineering', 'Prof. King'       , 3
+122      , 'Microbiology'        , 'Prof. Perez'      , 4
+123      , 'Electromagnetism'    , 'Prof. Thomas'     , 4
+124      , 'Number Theory'       , 'Prof. Davis'      , 3
+125      , 'Organic Synthesis'   , 'Prof. Miller'     , 4
+126      , 'Computer Networks'   , 'Prof. Brown'      , 3
+127      , 'Animal Physiology'   , 'Prof. Taylor'     , 4
+128      , 'Machine Learning'    , 'Prof. Robinson'   , 4
+129      , 'Differential Equations', 'Prof. Adams'    , 3
+130      , 'Virology'            , 'Prof. Turner'     , 4
+
